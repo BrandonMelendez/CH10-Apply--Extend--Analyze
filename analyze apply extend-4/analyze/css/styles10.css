@@ -1,6 +1,6 @@
 /*
-    Author:
-    Date:
+    Author: Brandon Melendez
+    Date: 04/17/24
     File Name: styles.css
 */
 
@@ -56,8 +56,20 @@ main {
 	border: inset 0.2em #7a6d68; 
 }
 
+#placeholder{
+	display: none;
+}
+
 footer {
 	font-size: .90em;
 	text-align: center;
 	margin-top: 2em;
+}
+
+figure {
+	align-content: center;
+}
+
+img {
+	padding: 1em;
 }
